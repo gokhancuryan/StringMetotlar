@@ -1,0 +1,15 @@
+C:\Users\rg\Desktop\Projeler\bin\Debug\net7.0\Projeler.exe
+C:\Users\rg\Desktop\Projeler\bin\Debug\net7.0\Projeler.deps.json
+C:\Users\rg\Desktop\Projeler\bin\Debug\net7.0\Projeler.runtimeconfig.json
+C:\Users\rg\Desktop\Projeler\bin\Debug\net7.0\Projeler.dll
+C:\Users\rg\Desktop\Projeler\bin\Debug\net7.0\Projeler.pdb
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.csproj.AssemblyReference.cache
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.AssemblyInfoInputs.cache
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.AssemblyInfo.cs
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.csproj.CoreCompileInputs.cache
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.dll
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\refint\Projeler.dll
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.pdb
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\Projeler.genruntimeconfig.cache
+C:\Users\rg\Desktop\Projeler\obj\Debug\net7.0\ref\Projeler.dll
